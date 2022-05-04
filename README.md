@@ -36,6 +36,14 @@
 
 <br>
 
+![예상결과](https://github.com/JackAhrnag/sorttest/blob/main/%EC%A0%95%EB%A0%AC%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%98%88%EC%83%81%EC%8B%9C%EA%B0%84.jpg?raw=true)
+
+<br>
+
+알고리즘 시간 소비의 계산에 따른 예상결과는 위와 같다.
+
+<br>
+
 ---
 
 출처
