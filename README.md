@@ -1,4 +1,4 @@
-![예상소비시간](C:\Users\user\OneDrive\바탕 화면)
+![예상소비시간](https://github.com/JackAhrnag/sorttest/blob/main/sort-time-complexity.png?raw=true)
 
 ---
 
